@@ -7,7 +7,7 @@ I'm Eduardo López Fortes and I'm studying a Data Science and Engineering degree
 
 When I was in secondary school, I didn't know which degree I wanted to study (this degree was firstly offered in 2020) and none of the degrees offered by my local University interested me or even drew my attention.
 
-Then, in 2nd of bachillerato, when I had to choose a degree, I realized about the existance of this brand new degree. And after investigating about its different courses, I knew that this was the opportunity I was waiting for all that years: it were now or never.
+Then, in 2nd of bachillerato, when I had to choose a degree, I realized about the existance of this brand new degree. And after investigating about its different courses, I knew that this was the opportunity I was waiting for all that years: it was now or never.
 
 Now I'm in my 2nd year and I'm even more motivated than when I started. During the first year I have learnt a lot of new things: from how to do basic programs in C, Python, Assembly (which was a real headache)... to know how the CPU works (that amazed me more than I expected), how to work with threads and other things I didn't knew I was going to learn, like how to be a self-though person!. 
 
