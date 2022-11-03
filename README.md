@@ -5,7 +5,7 @@
 
 I'm Eduardo López Fortes and I'm studying a Data Science and Engineering degree in the University of Las Palmas de Gran Canaria
 
-When I was in secondary school, i didn't know which degree I wanted to study (this degree was firstly offered in 2020) and none of the degrees offered by my local University interested me or even drew my attention.
+When I was in secondary school, I didn't know which degree I wanted to study (this degree was firstly offered in 2020) and none of the degrees offered by my local University interested me or even drew my attention.
 
 Then, in 2nd of bachillerato, when I had to choose a degree, I realized about the existance of this brand new degree. And after investigating about its different courses, I knew that this was the opportunity I was waiting for all that years: it were now or never.
 
