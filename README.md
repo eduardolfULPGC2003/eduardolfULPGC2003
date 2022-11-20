@@ -1,5 +1,5 @@
 ![header_portfolio](https://user-images.githubusercontent.com/114089684/199796454-4da622ec-d728-4ab9-8c04-05b4cda823b3.PNG)
-[![Discord](https://img.shields.io/discord/768278151435386900?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
+[![Discord](https://img.shields.io/discord/768278151435386900?style=social&label=Discord&logo=discord)](https://discord.gg/2Pmvq2nHta)
 ![GitHub Followers](https://img.shields.io/github/followers/eduardolfULPGC2003?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/eduardolfULPGC2003?style=social)
 
