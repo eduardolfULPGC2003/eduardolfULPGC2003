@@ -41,6 +41,6 @@ And some others...
 
 ## Contact:
 
-[![Universidad](https://img.shields.io/badge/ULPGC-orange?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+[![Universidad](https://img.shields.io/badge/ULPGC-orange?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://ulpgc.es)
 </br>
 [![Email](https://img.shields.io/badge/eduardo.lopez108@alu.ulpgc.es-Corporative_email-D14836?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](mailto:eduardo.lopez108@alu.ulpgc.es)
